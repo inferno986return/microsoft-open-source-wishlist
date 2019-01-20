@@ -1,5 +1,5 @@
 # microsoft-open-source-wishlist
-A wishlist of Microsoft products I would like open-sourced officially. These are mostly basic programs pre-installed with Windows.
+A wishlist of Microsoft products I would like open-sourced officially under OSI or FSF approved licensing. These are mostly basic programs pre-installed with Windows.
 
 ## Complete
 These are projects that Microsoft have released to my knowledge as complete.
@@ -21,7 +21,7 @@ These are projects that I would like to see open-sourced that Microsoft to my kn
 * Command Prompt (and commands) – The default shell on Windows.
 * Microsoft Edge – The
 * Microsoft Paint – A basic bitmap editor.
-* Microsoft Works (both for DOS and Windows) – A cheap word processor.
+* Microsoft Works (both for DOS and Windows + .wps, .wdb and .wks files) – A cheap word processor.
 * Notepad – A basic text-editor.
 * Windows Explorer – An explorer-style file manager.
 * Wordpad (and .rtf) – A basic word-processor.
