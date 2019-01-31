@@ -33,7 +33,7 @@ These are projects that I would like to see open-sourced that Microsoft to my kn
 * Inkball
 * Internet Backgammon
 * Internet Reversi
-* Minecraft (Pi Edition)
+* Minecraft (Pi Edition) – A creative-only version of Minecraft for the Raspberry Pi, now abandonware.
 * Minesweeper
 * SkiFree
 * Solitaire
