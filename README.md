@@ -19,7 +19,7 @@ These are projects that I would like to see open-sourced that Microsoft to my kn
 
 * Calculator
 * Command Prompt (and commands) – The default shell on Windows.
-* Microsoft Edge – The
+* Microsoft Edge – The replacement for Internet Explorer, formerly used EdgeHTML and Chakra (and other proprietary components) but now Chromium-based.
 * Microsoft Paint – A basic bitmap editor.
 * Microsoft Works (both for DOS and Windows + .wps, .wdb and .wks files) – A cheap word processor.
 * Notepad – A basic text-editor.
