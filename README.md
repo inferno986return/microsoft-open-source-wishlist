@@ -33,6 +33,7 @@ These are projects that I would like to see open-sourced that Microsoft to my kn
 * Inkball
 * Internet Backgammon
 * Internet Reversi
+* Minecraft (Pi Edition)
 * Minesweeper
 * SkiFree
 * Solitaire
