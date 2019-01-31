@@ -1,5 +1,5 @@
 # microsoft-open-source-wishlist
-A wishlist of Microsoft products I would like open-sourced officially under OSI or FSF approved licensing. These are mostly basic programs pre-installed with Windows.
+A wishlist of Microsoft products I would like open-sourced officially under OSI or FSF approved licensing. These are mostly basic programs pre-installed with Windows and many are abandonware.
 
 ## Complete
 These are projects that Microsoft have released to my knowledge as complete.
