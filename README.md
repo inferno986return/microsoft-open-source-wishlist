@@ -4,6 +4,7 @@ A wishlist of Microsoft products I would like open-sourced officially under OSI 
 ## Complete
 These are projects that Microsoft have released to my knowledge as complete.
 
+* [Calculator](https://github.com/Microsoft/Calculator) – The Windows 10 calculator.
 * [.NET Framework](https://github.com/Microsoft/dotnet) – An application development framework, according to [Wikipedia](https://en.wikipedia.org/wiki/.NET_Framework#Licensing) most of this is open-sourced.
 * [PowerShell](https://github.com/PowerShell/PowerShell) – A replacement command-line shell.
 
@@ -17,7 +18,6 @@ These are projects that I would like to see open-sourced that Microsoft to my kn
 
 ### Applications
 
-* Calculator
 * Command Prompt (and commands) – The default shell on Windows.
 * Microsoft Edge – The replacement for Internet Explorer, formerly used EdgeHTML and Chakra (and other proprietary components) but now Chromium-based.
 * Microsoft Paint – A basic bitmap editor.
